@@ -1,0 +1,71 @@
+{
+    "1":
+    {
+        "title":"Core Java ",
+         "description":"This is an awesome playlist of JAVA by Surya sir channel named Androtechjava4u. Pros are that every thing is covered in this  playlist and cons are that these videos are long. ",
+        "link":"https://www.youtube.com/watch?v=ZNce51kORFs&list=PLnfapp4WoqpoQqveAW_CDxRo7WKBbedeq&index=1&t=51s"
+    },
+    "2":
+    {
+        "title":"Advance Java ",
+         "description":"This is an awesome playlist of JAVA by Surya sir channel named Androtechjava4u.In this he covered topics like collection framework, servlet,jsp , etc Pros are that every thing is covered in this  playlist and cons are that these videos are long. ",
+        "link":"https://www.youtube.com/playlist?list=PLnfapp4Woqpqh_ebAN5mEZWrN4BjaoL_S"
+    },
+    "3":{
+        "title":"DSA by Anuj Bhaiya",
+         "description":"This is an awesome playlist of Data structures and algorithm  by Anuj Bhaiya .In this he covered topics of various Data Structures like arrays, strings, stack,queue, Linkedlist, etc. ",
+        "link":"https://www.youtube.com/playlist?list=PLUcsbZa0qzu3yNzzAxgvSgRobdUUJvz7p"
+    },
+    "4":{
+        "title":"Recursion by Striver",
+         "description":"Striver Bhaiya is mmost popular in Indian IT world for his teaching,problem solving etc .He is currently working in Google, ex-media,net . He teaches Recursion in a way that any beginner can understand. ",
+        "link":"https://www.youtube.com/playlist?list=PLgUwDviBIf0rQ6cnlaHRMuOp4H_D-7hwP"
+    },
+    "5":{
+        "title":"Recursion by Aditya Verma",
+         "description":"This is an awesome playlist of Recursion  by Aditya Verma .In this he covered all questions and pattern can be asked in any interview . ",
+        "link":"https://www.youtube.com/playlist?list=PL_z_8CaSLPWeYfhtuKHj-9MpYb6XQJ_f2"
+    },
+    "6":{
+        "title":"Stack by Aditya Verma",
+         "description":"This is an awesome playlist of Stacks  by Aditya Verma .In this he covered all questions and pattern can be asked in any interview . ",
+        "link":"https://www.youtube.com/playlist?list=PL_z_8CaSLPWdeOezg68SKkeLN4-T_jNHd"
+    },
+  
+    "7":{
+        "title":"LinkedList by Sumeet Malik",
+         "description":"This is an awesome playlist of LinkedList  by Pepcoding .In this he covered all questions and pattern can be asked in any interview . ",
+        "link":"https://www.youtube.com/playlist?list=PL-Jc9J83PIiF5VZmktfqW6WVU1pxBF6l_"
+    },
+    "8":{
+        "title":"Tree by Striver",
+         "description":"This is an awesome playlist of Tree  by Striver .In this he covered all questions and pattern can be asked in any interview . ",
+        "link":"https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk"
+    },
+    "9":{
+        "title":"Graph Series by Striver",
+         "description":"This is an awesome playlist of Graph  by Striver .In this he covered all questions and pattern can be asked in any interview . ",
+        "link":"https://www.youtube.com/playlist?list=PLgUwDviBIf0rGEWe64KWas0Nryn7SCRWw"
+    },
+    "10":{
+        "title":"Dynamic Programming Aditya Verma",
+         "description":"This is an awesome playlist of Dynamic programming OP series by aditya verma  .In this he covered all questions and pattern can be asked in any interview . ",
+        "link":"https://www.youtube.com/playlist?list=PLgUwDviBIf0q8Hkd7bK2Bpryj2xVJk8Vk"
+    },
+    "11":{
+        "title":"More is loading...",
+         "description":" ",
+        "link":""
+    }
+
+
+    }
+
+    
+
+
+
+
+
+
+
