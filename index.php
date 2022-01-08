@@ -2,7 +2,7 @@
 <html>   
     <head>
         <meta charset="utf - 8">    
-        <title>Java Videos</title>
+        <title>Learning Resources Compiled by Coding Club IIMT</title>
         <link rel="stylesheet" href="style.css">
     </head> 
     <body>
